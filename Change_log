@@ -1,0 +1,13 @@
+- Keylooger boot at startup, like this it catch the session password of the victim at startup.The keylloger is demonised so he run on background and he's due to that much more discreet.This options is disable cause it miss some others otpions before this one can be enable.
+
+- Added a disconnect bouton for close connection with the server.
+
+- Added Debian linux tab with full options enable.
+
+- Re-coded the kali sound recording options, the cmd wasn't the good ones, now it work well ( a faire )
+
+- Added 3 buttons "skin" for choose beetween three skins.
+
+- Re Coded a small piece of the keyloggger, when right / left shift was sustained the letter D wasn't logged, now it's fixed.
+
+- RE coded the server ands the client for use only 1 server for all distributions, for make it easier to use.

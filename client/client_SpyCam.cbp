@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="client_SpyCam" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/client_SpyCam" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="`pkg-config --cflags gtk+-2.0`" />
+					<Add option="`pkg-config --cflags --libs gstreamer-1.0`" />
+				</Compiler>
+				<Linker>
+					<Add option="`pkg-config --libs gtk+-2.0`" />
+					<Add option="`pkg-config --cflags --libs gstreamer-1.0`" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/client_SpyCam" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="`pkg-config --cflags gtk+-2.0`" />
+					<Add option="`pkg-config --cflags --libs gstreamer-1.0`" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="`pkg-config --libs gtk+-2.0`" />
+					<Add option="`pkg-config --cflags --libs gstreamer-1.0`" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="`pkg-config --cflags gtk+-2.0`" />
+			<Add option="`pkg-config --cflags --libs gstreamer-1.0`" />
+		</Compiler>
+		<Linker>
+			<Add option="`pkg-config --libs gtk+-2.0`" />
+			<Add option="`pkg-config --cflags --libs gstreamer-1.0`" />
+		</Linker>
+		<Unit filename="includes/callback.h" />
+		<Unit filename="includes/constants.h" />
+		<Unit filename="includes/debian_options.h" />
+		<Unit filename="includes/kali_options.h" />
+		<Unit filename="includes/keylogger.h" />
+		<Unit filename="includes/mint_options.h" />
+		<Unit filename="includes/remote_shell.h" />
+		<Unit filename="includes/ubuntu_options.h" />
+		<Unit filename="includes/upload.h" />
+		<Unit filename="includes/utils.h" />
+		<Unit filename="src /callback.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src /client.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src /debian_options.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src /kali_options.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src /keylogger.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src /mint_options.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src /remote_shell.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src /ubuntu_options.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src /upload.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src /utils.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<lib_finder disable_auto="1" />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

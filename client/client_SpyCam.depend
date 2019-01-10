@@ -1,0 +1,3522 @@
+# depslib dependency file v1.0
+1533560143 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/src /callback.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1533256067 /media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1533502375 /media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/includes/callback.h
+
+1532789323 /media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/includes/ubuntu_options.h
+
+1532789287 /media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/includes/mint_options.h
+
+1533333650 /media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/includes/utils.h
+
+1533560172 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/src /client.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+
+1533477097 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1533342300 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/src /ubuntu_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1532789001 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1533333689 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/src /utils.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+
+1533333425 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1533037570 /media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/includes/remote_shell.h
+
+1533560096 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1533477499 /media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam/client/includes/keylogger.h
+
+1533622826 source:/home/thibault/Bureau/SpyCam/client/src /client.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+
+1533256067 /home/thibault/Bureau/SpyCam/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1533622822 /home/thibault/Bureau/SpyCam/client/includes/callback.h
+
+1533333650 /home/thibault/Bureau/SpyCam/client/includes/utils.h
+
+1533622865 source:/home/thibault/Bureau/SpyCam/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1533477097 source:/home/thibault/Bureau/SpyCam/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1532789287 /home/thibault/Bureau/SpyCam/client/includes/mint_options.h
+
+1533333425 source:/home/thibault/Bureau/SpyCam/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1533037570 /home/thibault/Bureau/SpyCam/client/includes/remote_shell.h
+
+1533342300 source:/home/thibault/Bureau/SpyCam/client/src /ubuntu_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1532789323 /home/thibault/Bureau/SpyCam/client/includes/ubuntu_options.h
+
+1532789001 source:/home/thibault/Bureau/SpyCam/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1533333689 source:/home/thibault/Bureau/SpyCam/client/src /utils.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+
+1533622872 source:/home/thibault/Bureau/SpyCam/client/src /callback.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1533477499 /home/thibault/Bureau/SpyCam/client/includes/keylogger.h
+
+1534152193 source:/home/thibault/Bureau/SpyCam_pThread/client/src /callback.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pthread.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1533256067 /home/thibault/Bureau/SpyCam_pThread/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1534152231 /home/thibault/Bureau/SpyCam_pThread/client/includes/callback.h
+
+1532789323 /home/thibault/Bureau/SpyCam_pThread/client/includes/ubuntu_options.h
+
+1532789287 /home/thibault/Bureau/SpyCam_pThread/client/includes/mint_options.h
+
+1534016543 /home/thibault/Bureau/SpyCam_pThread/client/includes/utils.h
+
+1533037570 /home/thibault/Bureau/SpyCam_pThread/client/includes/remote_shell.h
+
+1533477499 /home/thibault/Bureau/SpyCam_pThread/client/includes/keylogger.h
+
+1534152428 source:/home/thibault/Bureau/SpyCam_pThread/client/src /client.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+
+1533622865 source:/home/thibault/Bureau/SpyCam_pThread/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1533477097 source:/home/thibault/Bureau/SpyCam_pThread/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1533333425 source:/home/thibault/Bureau/SpyCam_pThread/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1534165144 source:/home/thibault/Bureau/SpyCam_pThread/client/src /ubuntu_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1534078136 source:/home/thibault/Bureau/SpyCam_pThread/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1534017912 source:/home/thibault/Bureau/SpyCam_pThread/client/src /utils.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+	"../includes/constants.h"
+
+1534152647 source:/home/thibault/Bureau/SpyCam_pThread/client/src /fedora_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/fedora_options.h"
+	"../includes/utils.h"
+
+1534151916 /home/thibault/Bureau/SpyCam_pThread/client/includes/fedora_options.h
+
+1534518845 source:/home/thibault/Bureau/SpyCam_v1.34/client/src /callback.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pthread.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1533256067 /home/thibault/Bureau/SpyCam_v1.34/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1534152231 /home/thibault/Bureau/SpyCam_v1.34/client/includes/callback.h
+
+1532789323 /home/thibault/Bureau/SpyCam_v1.34/client/includes/ubuntu_options.h
+
+1532789287 /home/thibault/Bureau/SpyCam_v1.34/client/includes/mint_options.h
+
+1534016543 /home/thibault/Bureau/SpyCam_v1.34/client/includes/utils.h
+
+1533037570 /home/thibault/Bureau/SpyCam_v1.34/client/includes/remote_shell.h
+
+1533477499 /home/thibault/Bureau/SpyCam_v1.34/client/includes/keylogger.h
+
+1534231227 source:/home/thibault/Bureau/SpyCam_v1.34/client/src /client.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+
+1533622865 source:/home/thibault/Bureau/SpyCam_v1.34/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1533477097 source:/home/thibault/Bureau/SpyCam_v1.34/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1533333425 source:/home/thibault/Bureau/SpyCam_v1.34/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1534425318 source:/home/thibault/Bureau/SpyCam_v1.34/client/src /ubuntu_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1534188075 source:/home/thibault/Bureau/SpyCam_v1.34/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1534017912 source:/home/thibault/Bureau/SpyCam_v1.34/client/src /utils.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+	"../includes/constants.h"
+
+1534518845 source:/home/thibault/Bureau/SpyCam_v1.34_a voir/client/src /callback.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pthread.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1533256067 /home/thibault/Bureau/SpyCam_v1.34_a voir/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1534152231 /home/thibault/Bureau/SpyCam_v1.34_a voir/client/includes/callback.h
+
+1532789323 /home/thibault/Bureau/SpyCam_v1.34_a voir/client/includes/ubuntu_options.h
+
+1532789287 /home/thibault/Bureau/SpyCam_v1.34_a voir/client/includes/mint_options.h
+
+1534016543 /home/thibault/Bureau/SpyCam_v1.34_a voir/client/includes/utils.h
+
+1533037570 /home/thibault/Bureau/SpyCam_v1.34_a voir/client/includes/remote_shell.h
+
+1533477499 /home/thibault/Bureau/SpyCam_v1.34_a voir/client/includes/keylogger.h
+
+1534231227 source:/home/thibault/Bureau/SpyCam_v1.34_a voir/client/src /client.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+
+1533622865 source:/home/thibault/Bureau/SpyCam_v1.34_a voir/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1533477097 source:/home/thibault/Bureau/SpyCam_v1.34_a voir/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1533333425 source:/home/thibault/Bureau/SpyCam_v1.34_a voir/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1534425318 source:/home/thibault/Bureau/SpyCam_v1.34_a voir/client/src /ubuntu_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1534188075 source:/home/thibault/Bureau/SpyCam_v1.34_a voir/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1534017912 source:/home/thibault/Bureau/SpyCam_v1.34_a voir/client/src /utils.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+	"../includes/constants.h"
+
+1534644759 source:/home/thibault/Bureau/SpyCam_v1.34_bien/client/src /callback.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pthread.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1533256067 /home/thibault/Bureau/SpyCam_v1.34_bien/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1534152231 /home/thibault/Bureau/SpyCam_v1.34_bien/client/includes/callback.h
+
+1532789323 /home/thibault/Bureau/SpyCam_v1.34_bien/client/includes/ubuntu_options.h
+
+1532789287 /home/thibault/Bureau/SpyCam_v1.34_bien/client/includes/mint_options.h
+
+1534016543 /home/thibault/Bureau/SpyCam_v1.34_bien/client/includes/utils.h
+
+1533037570 /home/thibault/Bureau/SpyCam_v1.34_bien/client/includes/remote_shell.h
+
+1533477499 /home/thibault/Bureau/SpyCam_v1.34_bien/client/includes/keylogger.h
+
+1534654765 source:/home/thibault/Bureau/SpyCam_v1.34_bien/client/src /client.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+
+1533622865 source:/home/thibault/Bureau/SpyCam_v1.34_bien/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1533477097 source:/home/thibault/Bureau/SpyCam_v1.34_bien/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1533333425 source:/home/thibault/Bureau/SpyCam_v1.34_bien/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1534425318 source:/home/thibault/Bureau/SpyCam_v1.34_bien/client/src /ubuntu_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1534188075 source:/home/thibault/Bureau/SpyCam_v1.34_bien/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1534017912 source:/home/thibault/Bureau/SpyCam_v1.34_bien/client/src /utils.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+	"../includes/constants.h"
+
+1534644759 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/src /callback.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pthread.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1533256067 /media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1534152231 /media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/includes/callback.h
+
+1532789323 /media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/includes/ubuntu_options.h
+
+1532789287 /media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/includes/mint_options.h
+
+1534016543 /media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/includes/utils.h
+
+1533037570 /media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/includes/remote_shell.h
+
+1533477499 /media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/includes/keylogger.h
+
+1534654765 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/src /client.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+
+1533622865 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1533477097 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1533333425 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1534425318 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/src /ubuntu_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1534188075 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1534017912 source:/media/thibault/D:/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/SpyCam_v1.34_Final/client/src /utils.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+	"../includes/constants.h"
+
+1536208634 source:/home/thibault/Bureau/SpyCam_v1.34_Final/client/src /callback.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pthread.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/kali_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1536199655 /home/thibault/Bureau/SpyCam_v1.34_Final/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1536208080 /home/thibault/Bureau/SpyCam_v1.34_Final/client/includes/callback.h
+
+1532789323 /home/thibault/Bureau/SpyCam_v1.34_Final/client/includes/ubuntu_options.h
+
+1532789287 /home/thibault/Bureau/SpyCam_v1.34_Final/client/includes/mint_options.h
+
+1534016543 /home/thibault/Bureau/SpyCam_v1.34_Final/client/includes/utils.h
+
+1533037570 /home/thibault/Bureau/SpyCam_v1.34_Final/client/includes/remote_shell.h
+
+1533477499 /home/thibault/Bureau/SpyCam_v1.34_Final/client/includes/keylogger.h
+
+1536208661 source:/home/thibault/Bureau/SpyCam_v1.34_Final/client/src /client.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	<gst/gst.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+
+1533622865 source:/home/thibault/Bureau/SpyCam_v1.34_Final/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1536208323 source:/home/thibault/Bureau/SpyCam_v1.34_Final/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1533333425 source:/home/thibault/Bureau/SpyCam_v1.34_Final/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1534425318 source:/home/thibault/Bureau/SpyCam_v1.34_Final/client/src /ubuntu_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1534188075 source:/home/thibault/Bureau/SpyCam_v1.34_Final/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1534017912 source:/home/thibault/Bureau/SpyCam_v1.34_Final/client/src /utils.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+	"../includes/constants.h"
+
+1527080062 /usr/include/gstreamer-1.0/gst/gst.h
+	<glib.h>
+	<gst/glib-compat.h>
+	<gst/gstenumtypes.h>
+	<gst/gstversion.h>
+	<gst/gstatomicqueue.h>
+	<gst/gstbin.h>
+	<gst/gstbuffer.h>
+	<gst/gstbufferlist.h>
+	<gst/gstbufferpool.h>
+	<gst/gstcaps.h>
+	<gst/gstcapsfeatures.h>
+	<gst/gstchildproxy.h>
+	<gst/gstclock.h>
+	<gst/gstcontrolsource.h>
+	<gst/gstdatetime.h>
+	<gst/gstdebugutils.h>
+	<gst/gstdevice.h>
+	<gst/gstdevicemonitor.h>
+	<gst/gstdeviceprovider.h>
+	<gst/gstdynamictypefactory.h>
+	<gst/gstelement.h>
+	<gst/gstelementmetadata.h>
+	<gst/gsterror.h>
+	<gst/gstevent.h>
+	<gst/gstghostpad.h>
+	<gst/gstinfo.h>
+	<gst/gstiterator.h>
+	<gst/gstmessage.h>
+	<gst/gstmemory.h>
+	<gst/gstmeta.h>
+	<gst/gstminiobject.h>
+	<gst/gstobject.h>
+	<gst/gststreamcollection.h>
+	<gst/gstpad.h>
+	<gst/gstparamspecs.h>
+	<gst/gstpipeline.h>
+	<gst/gstplugin.h>
+	<gst/gstpoll.h>
+	<gst/gstpreset.h>
+	<gst/gstprotection.h>
+	<gst/gstquery.h>
+	<gst/gstregistry.h>
+	<gst/gstpromise.h>
+	<gst/gstsample.h>
+	<gst/gstsegment.h>
+	<gst/gststreams.h>
+	<gst/gststructure.h>
+	<gst/gstsystemclock.h>
+	<gst/gsttaglist.h>
+	<gst/gsttagsetter.h>
+	<gst/gsttask.h>
+	<gst/gsttaskpool.h>
+	<gst/gsttoc.h>
+	<gst/gsttocsetter.h>
+	<gst/gsttracer.h>
+	<gst/gsttracerfactory.h>
+	<gst/gsttracerrecord.h>
+	<gst/gsttypefind.h>
+	<gst/gsttypefindfactory.h>
+	<gst/gsturi.h>
+	<gst/gstutils.h>
+	<gst/gstvalue.h>
+	<gst/gstparse.h>
+	<gst/gstcompat.h>
+
+1537979759 /usr/include/glib-2.0/glib.h
+	<glib/galloca.h>
+	<glib/garray.h>
+	<glib/gasyncqueue.h>
+	<glib/gatomic.h>
+	<glib/gbacktrace.h>
+	<glib/gbase64.h>
+	<glib/gbitlock.h>
+	<glib/gbookmarkfile.h>
+	<glib/gbytes.h>
+	<glib/gcharset.h>
+	<glib/gchecksum.h>
+	<glib/gconvert.h>
+	<glib/gdataset.h>
+	<glib/gdate.h>
+	<glib/gdatetime.h>
+	<glib/gdir.h>
+	<glib/genviron.h>
+	<glib/gerror.h>
+	<glib/gfileutils.h>
+	<glib/ggettext.h>
+	<glib/ghash.h>
+	<glib/ghmac.h>
+	<glib/ghook.h>
+	<glib/ghostutils.h>
+	<glib/giochannel.h>
+	<glib/gkeyfile.h>
+	<glib/glist.h>
+	<glib/gmacros.h>
+	<glib/gmain.h>
+	<glib/gmappedfile.h>
+	<glib/gmarkup.h>
+	<glib/gmem.h>
+	<glib/gmessages.h>
+	<glib/gnode.h>
+	<glib/goption.h>
+	<glib/gpattern.h>
+	<glib/gpoll.h>
+	<glib/gprimes.h>
+	<glib/gqsort.h>
+	<glib/gquark.h>
+	<glib/gqueue.h>
+	<glib/grand.h>
+	<glib/gregex.h>
+	<glib/gscanner.h>
+	<glib/gsequence.h>
+	<glib/gshell.h>
+	<glib/gslice.h>
+	<glib/gslist.h>
+	<glib/gspawn.h>
+	<glib/gstrfuncs.h>
+	<glib/gstring.h>
+	<glib/gstringchunk.h>
+	<glib/gtestutils.h>
+	<glib/gthread.h>
+	<glib/gthreadpool.h>
+	<glib/gtimer.h>
+	<glib/gtimezone.h>
+	<glib/gtrashstack.h>
+	<glib/gtree.h>
+	<glib/gtypes.h>
+	<glib/gunicode.h>
+	<glib/gurifuncs.h>
+	<glib/gutils.h>
+	<glib/guuid.h>
+	<glib/gvarianttype.h>
+	<glib/gvariant.h>
+	<glib/gversion.h>
+	<glib/gversionmacros.h>
+	<glib/gwin32.h>
+	<glib/deprecated/gallocator.h>
+	<glib/deprecated/gcache.h>
+	<glib/deprecated/gcompletion.h>
+	<glib/deprecated/gmain.h>
+	<glib/deprecated/grel.h>
+	<glib/deprecated/gthread.h>
+	<glib/glib-autocleanups.h>
+
+1537979759 /usr/include/glib-2.0/glib/galloca.h
+	<glib/gtypes.h>
+	<alloca.h>
+	<alloca.h>
+	<malloc.h>
+
+1537979759 /usr/include/glib-2.0/glib/gtypes.h
+	<glibconfig.h>
+	<glib/gmacros.h>
+	<glib/gversionmacros.h>
+	<time.h>
+
+1537979759 /usr/lib/x86_64-linux-gnu/glib-2.0/include/glibconfig.h
+	<glib/gmacros.h>
+	<limits.h>
+	<float.h>
+
+1537979759 /usr/include/glib-2.0/glib/gmacros.h
+	<stddef.h>
+
+1537979759 /usr/include/glib-2.0/glib/gversionmacros.h
+
+1537979759 /usr/include/glib-2.0/glib/garray.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gasyncqueue.h
+	<glib/gthread.h>
+
+1537979759 /usr/include/glib-2.0/glib/gthread.h
+	<glib/gatomic.h>
+	<glib/gerror.h>
+	<glib/gutils.h>
+
+1537979759 /usr/include/glib-2.0/glib/gatomic.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gerror.h
+	<stdarg.h>
+	<glib/gquark.h>
+
+1537979759 /usr/include/glib-2.0/glib/gquark.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gutils.h
+	<glib/gtypes.h>
+	<stdarg.h>
+	<stdlib.h>
+
+1537979759 /usr/include/glib-2.0/glib/gbacktrace.h
+	<glib/gtypes.h>
+	<sys/select.h>
+	<signal.h>
+
+1537979759 /usr/include/glib-2.0/glib/gbase64.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gbitlock.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gbookmarkfile.h
+	<glib/gerror.h>
+	<time.h>
+
+1537979759 /usr/include/glib-2.0/glib/gbytes.h
+	<glib/gtypes.h>
+	<glib/garray.h>
+
+1537979759 /usr/include/glib-2.0/glib/gcharset.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gchecksum.h
+	<glib/gtypes.h>
+	<glib/gbytes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gconvert.h
+	<glib/gerror.h>
+
+1537979759 /usr/include/glib-2.0/glib/gdataset.h
+	<glib/gquark.h>
+
+1537979759 /usr/include/glib-2.0/glib/gdate.h
+	<time.h>
+	<glib/gtypes.h>
+	<glib/gquark.h>
+
+1537979759 /usr/include/glib-2.0/glib/gdatetime.h
+	<glib/gtimezone.h>
+
+1537979759 /usr/include/glib-2.0/glib/gtimezone.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gdir.h
+	<glib/gerror.h>
+	<dirent.h>
+
+1537979759 /usr/include/glib-2.0/glib/genviron.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gfileutils.h
+	<glibconfig.h>
+	<glib/gerror.h>
+
+1537979759 /usr/include/glib-2.0/glib/ggettext.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/ghash.h
+	<glib/gtypes.h>
+	<glib/glist.h>
+
+1537979759 /usr/include/glib-2.0/glib/glist.h
+	<glib/gmem.h>
+	<glib/gnode.h>
+
+1537979759 /usr/include/glib-2.0/glib/gmem.h
+	<glib/gutils.h>
+
+1537979759 /usr/include/glib-2.0/glib/gnode.h
+	<glib/gmem.h>
+
+1537979759 /usr/include/glib-2.0/glib/ghmac.h
+	<glib/gtypes.h>
+	"gchecksum.h"
+
+1537979759 /usr/include/glib-2.0/glib/ghook.h
+	<glib/gmem.h>
+
+1537979759 /usr/include/glib-2.0/glib/ghostutils.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/giochannel.h
+	<glib/gconvert.h>
+	<glib/gmain.h>
+	<glib/gstring.h>
+
+1537979759 /usr/include/glib-2.0/glib/gmain.h
+	<glib/gpoll.h>
+	<glib/gslist.h>
+	<glib/gthread.h>
+
+1537979759 /usr/include/glib-2.0/glib/gpoll.h
+	<glibconfig.h>
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gslist.h
+	<glib/gmem.h>
+	<glib/gnode.h>
+
+1537979759 /usr/include/glib-2.0/glib/gstring.h
+	<glib/gtypes.h>
+	<glib/gunicode.h>
+	<glib/gbytes.h>
+	<glib/gutils.h>
+
+1537979759 /usr/include/glib-2.0/glib/gunicode.h
+	<glib/gerror.h>
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gkeyfile.h
+	<glib/gbytes.h>
+	<glib/gerror.h>
+
+1537979759 /usr/include/glib-2.0/glib/gmappedfile.h
+	<glib/gbytes.h>
+	<glib/gerror.h>
+
+1537979759 /usr/include/glib-2.0/glib/gmarkup.h
+	<stdarg.h>
+	<glib/gerror.h>
+	<glib/gslist.h>
+
+1537979759 /usr/include/glib-2.0/glib/gmessages.h
+	<stdarg.h>
+	<glib/gtypes.h>
+	<glib/gmacros.h>
+	<glib/gvariant.h>
+
+1537979759 /usr/include/glib-2.0/glib/goption.h
+	<glib/gerror.h>
+	<glib/gquark.h>
+
+1537979759 /usr/include/glib-2.0/glib/gpattern.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gprimes.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gqsort.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gqueue.h
+	<glib/glist.h>
+
+1537979759 /usr/include/glib-2.0/glib/grand.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gregex.h
+	<glib/gerror.h>
+	<glib/gstring.h>
+
+1537979759 /usr/include/glib-2.0/glib/gscanner.h
+	<glib/gdataset.h>
+	<glib/ghash.h>
+
+1537979759 /usr/include/glib-2.0/glib/gsequence.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gshell.h
+	<glib/gerror.h>
+
+1537979759 /usr/include/glib-2.0/glib/gslice.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gspawn.h
+	<glib/gerror.h>
+
+1537979759 /usr/include/glib-2.0/glib/gstrfuncs.h
+	<stdarg.h>
+	<glib/gmacros.h>
+	<glib/gtypes.h>
+	<glib/gerror.h>
+
+1537979759 /usr/include/glib-2.0/glib/gstringchunk.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gtestutils.h
+	<glib/gmessages.h>
+	<glib/gstring.h>
+	<glib/gerror.h>
+	<glib/gslist.h>
+	<string.h>
+
+1537979759 /usr/include/glib-2.0/glib/gthreadpool.h
+	<glib/gthread.h>
+
+1537979759 /usr/include/glib-2.0/glib/gtimer.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gtrashstack.h
+	<glib/gutils.h>
+
+1537979759 /usr/include/glib-2.0/glib/gtree.h
+	<glib/gnode.h>
+
+1537979759 /usr/include/glib-2.0/glib/gurifuncs.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gvarianttype.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gvariant.h
+	<glib/gvarianttype.h>
+	<glib/gstring.h>
+	<glib/gbytes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gversion.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/gwin32.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/deprecated/gallocator.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/deprecated/gcache.h
+	<glib/glist.h>
+
+1537979759 /usr/include/glib-2.0/glib/deprecated/gcompletion.h
+	<glib/glist.h>
+
+1537979759 /usr/include/glib-2.0/glib/deprecated/gmain.h
+	<glib/gmain.h>
+
+1537979759 /usr/include/glib-2.0/glib/deprecated/grel.h
+	<glib/gtypes.h>
+
+1537979759 /usr/include/glib-2.0/glib/deprecated/gthread.h
+	<glib/gthread.h>
+	<sys/types.h>
+	<pthread.h>
+
+1537979759 /usr/include/glib-2.0/glib/glib-autocleanups.h
+
+1527080062 /usr/include/gstreamer-1.0/gst/glib-compat.h
+	<glib.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstenumtypes.h
+	<glib-object.h>
+	<gst/gstconfig.h>
+
+1537979759 /usr/include/glib-2.0/glib-object.h
+	<gobject/gbinding.h>
+	<gobject/gboxed.h>
+	<gobject/genums.h>
+	<gobject/gobject.h>
+	<gobject/gparam.h>
+	<gobject/gparamspecs.h>
+	<gobject/gsignal.h>
+	<gobject/gsourceclosure.h>
+	<gobject/gtype.h>
+	<gobject/gtypemodule.h>
+	<gobject/gtypeplugin.h>
+	<gobject/gvalue.h>
+	<gobject/gvaluearray.h>
+	<gobject/gvaluetypes.h>
+	<gobject/gobject-autocleanups.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gbinding.h
+	<glib.h>
+	<gobject/gobject.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gobject.h
+	<gobject/gtype.h>
+	<gobject/gvalue.h>
+	<gobject/gparam.h>
+	<gobject/gclosure.h>
+	<gobject/gsignal.h>
+	<gobject/gboxed.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gtype.h
+	<glib.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gvalue.h
+	<gobject/gtype.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gparam.h
+	<gobject/gvalue.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gclosure.h
+	<gobject/gtype.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gsignal.h
+	<gobject/gclosure.h>
+	<gobject/gvalue.h>
+	<gobject/gparam.h>
+	<gobject/gmarshal.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gmarshal.h
+
+1537979759 /usr/include/glib-2.0/gobject/gboxed.h
+	<gobject/gtype.h>
+	<gobject/glib-types.h>
+
+1537979759 /usr/include/glib-2.0/gobject/glib-types.h
+	<glib.h>
+
+1537979759 /usr/include/glib-2.0/gobject/genums.h
+	<gobject/gtype.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gparamspecs.h
+	<gobject/gvalue.h>
+	<gobject/genums.h>
+	<gobject/gboxed.h>
+	<gobject/gobject.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gsourceclosure.h
+	<gobject/gclosure.h>
+	<gobject/glib-types.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gtypemodule.h
+	<gobject/gobject.h>
+	<gobject/genums.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gtypeplugin.h
+	<gobject/gtype.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gvaluearray.h
+	<gobject/gvalue.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gvaluetypes.h
+	<gobject/gvalue.h>
+
+1537979759 /usr/include/glib-2.0/gobject/gobject-autocleanups.h
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstversion.h
+	<glib.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstatomicqueue.h
+	<glib.h>
+	<glib-object.h>
+	<gst/gstconfig.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstbin.h
+	<gst/gstelement.h>
+	<gst/gstiterator.h>
+	<gst/gstbus.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstelement.h
+	<glib.h>
+	<gst/gstconfig.h>
+	<gst/gstobject.h>
+	<gst/gstpad.h>
+	<gst/gstbus.h>
+	<gst/gstclock.h>
+	<gst/gstelementfactory.h>
+	<gst/gstplugin.h>
+	<gst/gstpluginfeature.h>
+	<gst/gstiterator.h>
+	<gst/gstmessage.h>
+	<gst/gstquery.h>
+	<gst/gsttaglist.h>
+	<gst/gstcontext.h>
+
+1473167766 /usr/lib/x86_64-linux-gnu/gstreamer-1.0/include/gst/gstconfig.h
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstobject.h
+	<gst/gstconfig.h>
+	<glib-object.h>
+	<gst/gstcontrolbinding.h>
+	<gst/gstcontrolsource.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstcontrolbinding.h
+	<gst/gstconfig.h>
+	<glib-object.h>
+	<gst/gstcontrolsource.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstcontrolsource.h
+	<gst/gstconfig.h>
+	<glib-object.h>
+	<gst/gstclock.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstclock.h
+	<gst/gstconfig.h>
+	<glib.h>
+	<gst/gstobject.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstpad.h
+	<gst/gstconfig.h>
+	<glib.h>
+	<gst/gstobject.h>
+	<gst/gstbuffer.h>
+	<gst/gstbufferlist.h>
+	<gst/gstcaps.h>
+	<gst/gstpadtemplate.h>
+	<gst/gstevent.h>
+	<gst/gstquery.h>
+	<gst/gsttask.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstbuffer.h
+	<gst/gstminiobject.h>
+	<gst/gstclock.h>
+	<gst/gstallocator.h>
+	<gst/gstcaps.h>
+	<gst/gstmeta.h>
+	<gst/gstmeta.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstminiobject.h
+	<gst/gstconfig.h>
+	<glib-object.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstallocator.h
+	<gst/gstmemory.h>
+	<gst/gstobject.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstmemory.h
+	<gst/gstconfig.h>
+	<glib-object.h>
+	<gst/gstminiobject.h>
+	<gst/gstobject.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstmeta.h
+	<glib.h>
+	<gst/gstbuffer.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstbufferlist.h
+	<gst/gstbuffer.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstcaps.h
+	<gst/gstconfig.h>
+	<gst/gstminiobject.h>
+	<gst/gststructure.h>
+	<gst/gstcapsfeatures.h>
+	<gst/glib-compat.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gststructure.h
+	<gst/gstconfig.h>
+	<glib-object.h>
+	<gst/gstclock.h>
+	<gst/gstdatetime.h>
+	<gst/glib-compat.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstdatetime.h
+	<gst/gstconfig.h>
+	<time.h>
+	<glib.h>
+	<glib-object.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstcapsfeatures.h
+	<gst/gstconfig.h>
+	<gst/glib-compat.h>
+	<glib-object.h>
+	<glib.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstpadtemplate.h
+	<gst/gstconfig.h>
+	<gst/gstobject.h>
+	<gst/gstbuffer.h>
+	<gst/gstcaps.h>
+	<gst/gstevent.h>
+	<gst/gstquery.h>
+	<gst/gsttask.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstevent.h
+	<gst/gstminiobject.h>
+	<gst/gstformat.h>
+	<gst/gstobject.h>
+	<gst/gstclock.h>
+	<gst/gststructure.h>
+	<gst/gsttaglist.h>
+	<gst/gstsegment.h>
+	<gst/gstmessage.h>
+	<gst/gstcontext.h>
+	<gst/gststreams.h>
+	<gst/gsttoc.h>
+	<gst/gststreamcollection.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstformat.h
+	<glib.h>
+	<gst/gstiterator.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstiterator.h
+	<glib-object.h>
+	<gst/gstconfig.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gsttaglist.h
+	<gst/gstdatetime.h>
+	<gst/gstsample.h>
+	<gst/gstbuffer.h>
+	<gst/glib-compat.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstsample.h
+	<gst/gstbuffer.h>
+	<gst/gstbufferlist.h>
+	<gst/gstcaps.h>
+	<gst/gstsegment.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstsegment.h
+	<gst/gstformat.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstmessage.h
+	<glib.h>
+	<gst/gstminiobject.h>
+	<gst/gstobject.h>
+	<gst/gstelement.h>
+	<gst/gsttaglist.h>
+	<gst/gststructure.h>
+	<gst/gstquery.h>
+	<gst/gsttoc.h>
+	<gst/gstdevice.h>
+	<gst/gststreams.h>
+	<gst/gststreamcollection.h>
+	<gst/gstquery.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstquery.h
+	<glib.h>
+	<glib-object.h>
+	<gst/gstconfig.h>
+	<gst/gstminiobject.h>
+	<gst/gstiterator.h>
+	<gst/gststructure.h>
+	<gst/gstformat.h>
+	<gst/gstpad.h>
+	<gst/gstallocator.h>
+	<gst/gsttoc.h>
+	<gst/gstcontext.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gsttoc.h
+	<gst/gstconfig.h>
+	<gst/gstminiobject.h>
+	<gst/gststructure.h>
+	<gst/gsttaglist.h>
+	<gst/gstformat.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstcontext.h
+	<glib.h>
+	<gst/gstminiobject.h>
+	<gst/gststructure.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstdevice.h
+	<gst/gstelement.h>
+	<gst/gstcaps.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gsttask.h
+	<gst/gstobject.h>
+	<gst/gsttaskpool.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gsttaskpool.h
+	<gst/gstobject.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstbus.h
+	<gst/gstmessage.h>
+	<gst/gstclock.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstelementfactory.h
+	<gst/gstconfig.h>
+	<gst/gstelement.h>
+	<gst/gstpad.h>
+	<gst/gstplugin.h>
+	<gst/gstpluginfeature.h>
+	<gst/gsturi.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstplugin.h
+	<gst/gstconfig.h>
+	<gst/gstobject.h>
+	<gst/gstmacros.h>
+	<gst/gststructure.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstmacros.h
+	<glib.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstpluginfeature.h
+	<glib-object.h>
+	<gst/gstobject.h>
+	<gst/gstplugin.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gsturi.h
+	<glib.h>
+	<glib-object.h>
+	<gst/gstconfig.h>
+	<gst/gstelement.h>
+	"gstminiobject.h"
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstchildproxy.h
+	<glib-object.h>
+	<gst/gst.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstdebugutils.h
+	<glib.h>
+	<glib-object.h>
+	<gst/gstconfig.h>
+	<gst/gstbin.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstdevicemonitor.h
+	<gst/gstobject.h>
+	<gst/gstdevice.h>
+	<gst/gstdeviceprovider.h>
+	<gst/gstdeviceproviderfactory.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstdeviceprovider.h
+	<gst/gstelement.h>
+	<gst/gstdeviceproviderfactory.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstdeviceproviderfactory.h
+	<gst/gstconfig.h>
+	<gst/gstplugin.h>
+	<gst/gstpluginfeature.h>
+	<gst/gstdeviceprovider.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstelementmetadata.h
+	<glib.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gsterror.h
+	<glib.h>
+	<glib-object.h>
+	<errno.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstghostpad.h
+	<gst/gstpad.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstinfo.h
+	<glib.h>
+	<glib-object.h>
+	<gst/gstconfig.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstparamspecs.h
+	<gst/gstvalue.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstvalue.h
+	<gst/gstconfig.h>
+	<gst/gstcaps.h>
+	<gst/gststructure.h>
+	<gst/gstcapsfeatures.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstpipeline.h
+	<gst/gstbin.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstpoll.h
+	<glib.h>
+	<glib-object.h>
+	<gst/gstclock.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstpreset.h
+	<glib-object.h>
+	<gst/gstconfig.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstprotection.h
+	<gst/gst.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstregistry.h
+	<gst/gstconfig.h>
+	<gst/gstplugin.h>
+	<gst/gstpluginfeature.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstsystemclock.h
+	<gst/gstclock.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gsttagsetter.h
+	<gst/gst.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gsttocsetter.h
+	<gst/gst.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gsttracer.h
+	<glib.h>
+	<glib-object.h>
+	<gst/gstobject.h>
+	<gst/gstconfig.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gsttracerfactory.h
+	<gst/gstcaps.h>
+	<gst/gstplugin.h>
+	<gst/gstpluginfeature.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gsttracerrecord.h
+	<gst/gstobject.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gsttypefind.h
+	<gst/gstcaps.h>
+	<gst/gstplugin.h>
+	<gst/gstpluginfeature.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gsttypefindfactory.h
+	<gst/gstcaps.h>
+	<gst/gstplugin.h>
+	<gst/gstpluginfeature.h>
+	<gst/gsttypefind.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstutils.h
+	<glib.h>
+	<gst/gstconfig.h>
+	<gst/gstbin.h>
+	<gst/gstparse.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstparse.h
+	<gst/gstelement.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstcompat.h
+	<glib.h>
+	<gst/gstpad.h>
+
+1536209406 source:/home/thibault/Bureau/SpyCam_v1.34_Final/client/src /kali_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/kali_options.h"
+
+1536208278 /home/thibault/Bureau/SpyCam_v1.34_Final/client/includes/kali_options.h
+
+1533622865 source:/home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1536199655 /home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1537112636 /home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/includes/callback.h
+
+1533333425 source:/home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1533037570 /home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/includes/remote_shell.h
+
+1534016543 /home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/includes/utils.h
+
+1537144709 source:/home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/src /ubuntu_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1536904044 /home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/includes/ubuntu_options.h
+
+1536411001 source:/home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1536904301 source:/home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/src /utils.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+	"../includes/constants.h"
+
+1537112662 source:/home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/src /callback.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pthread.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/debian_options.h"
+	"../includes/kali_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1532789287 /home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/includes/mint_options.h
+
+1537100484 /home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/includes/kali_options.h
+
+1533477499 /home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/includes/keylogger.h
+
+1537112724 source:/home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/src /client.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	<gst/gst.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/ubuntu_options.h"
+
+1537100487 source:/home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/src /kali_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/kali_options.h"
+
+1536321636 source:/home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1537097000 source:/home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/src /fedora_options.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/fedora_options.h"
+	"../includes/utils.h"
+
+1536433124 source:/media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/src /callback.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pthread.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/kali_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1536199655 /media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1536276594 /media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/includes/callback.h
+
+1536570032 /media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/includes/ubuntu_options.h
+
+1532789287 /media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/includes/mint_options.h
+
+1536431590 /media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/includes/kali_options.h
+
+1534016543 /media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/includes/utils.h
+
+1533037570 /media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/includes/remote_shell.h
+
+1533477499 /media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/includes/keylogger.h
+
+1536433261 source:/media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/src /client.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	<gst/gst.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+
+1536301259 source:/media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/src /fedora_options.c
+
+1536433675 source:/media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/src /kali_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/kali_options.h"
+
+1533622865 source:/media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1536321636 source:/media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1533333425 source:/media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1536570034 source:/media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/src /ubuntu_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1536411001 source:/media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1536276617 source:/media/thibault/D:/code/SpyCam_v1.34_libgstreamer/client/src /utils.c
+	<window.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+	"../includes/constants.h"
+
+1537096958 /home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/includes/fedora_options.h
+
+1537111600 source:/home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/src /debian_options.c
+
+1537111635 /home/thibault/Bureau/SpyCam_v1.34_libgstreamer/client/includes/debian_options.h
+
+1537994166 source:/home/thibault/Bureau/SpyCam_v1.0_Final/client/src /callback.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pthread.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/kali_options.h"
+	"../includes/debian_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1536199655 /home/thibault/Bureau/SpyCam_v1.0_Final/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1537993152 /home/thibault/Bureau/SpyCam_v1.0_Final/client/includes/callback.h
+
+1536904044 /home/thibault/Bureau/SpyCam_v1.0_Final/client/includes/ubuntu_options.h
+
+1537495108 /home/thibault/Bureau/SpyCam_v1.0_Final/client/includes/mint_options.h
+
+1537585366 /home/thibault/Bureau/SpyCam_v1.0_Final/client/includes/debian_options.h
+
+1537100484 /home/thibault/Bureau/SpyCam_v1.0_Final/client/includes/kali_options.h
+
+1537994196 /home/thibault/Bureau/SpyCam_v1.0_Final/client/includes/utils.h
+
+1533037570 /home/thibault/Bureau/SpyCam_v1.0_Final/client/includes/remote_shell.h
+
+1537993281 /home/thibault/Bureau/SpyCam_v1.0_Final/client/includes/keylogger.h
+
+1537994302 source:/home/thibault/Bureau/SpyCam_v1.0_Final/client/src /client.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	<gst/gst.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/ubuntu_options.h"
+
+1537704401 source:/home/thibault/Bureau/SpyCam_v1.0_Final/client/src /debian_options.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/debian_options.h"
+	"../includes/utils.h"
+
+1537484645 source:/home/thibault/Bureau/SpyCam_v1.0_Final/client/src /kali_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/kali_options.h"
+
+1537994636 source:/home/thibault/Bureau/SpyCam_v1.0_Final/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1537496352 source:/home/thibault/Bureau/SpyCam_v1.0_Final/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1533333425 source:/home/thibault/Bureau/SpyCam_v1.0_Final/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1537585318 source:/home/thibault/Bureau/SpyCam_v1.0_Final/client/src /ubuntu_options.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1536411001 source:/home/thibault/Bureau/SpyCam_v1.0_Final/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1537994493 source:/home/thibault/Bureau/SpyCam_v1.0_Final/client/src /utils.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1537784967 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/src /callback.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pthread.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/kali_options.h"
+	"../includes/debian_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1536199655 /media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1537784988 /media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/includes/callback.h
+
+1536904044 /media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/includes/ubuntu_options.h
+
+1537495108 /media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/includes/mint_options.h
+
+1537100484 /media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/includes/kali_options.h
+
+1537585366 /media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/includes/debian_options.h
+
+1537784980 /media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/includes/utils.h
+
+1533037570 /media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/includes/remote_shell.h
+
+1533477499 /media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/includes/keylogger.h
+
+1537787377 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/src /client.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	<gst/gst.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/ubuntu_options.h"
+
+1537704401 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/src /debian_options.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/debian_options.h"
+	"../includes/utils.h"
+
+1537484645 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/src /kali_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/kali_options.h"
+
+1533622865 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1537496352 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1533333425 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1537585318 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/src /ubuntu_options.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1536411001 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1537787502 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.0_Final/client/src /utils.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1546179638 source:/home/thibault/Bureau/SpyCam_v1.1/client/src /callback.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pthread.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/kali_options.h"
+	"../includes/debian_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1546457279 /home/thibault/Bureau/SpyCam_v1.1/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1537993152 /home/thibault/Bureau/SpyCam_v1.1/client/includes/callback.h
+
+1536904044 /home/thibault/Bureau/SpyCam_v1.1/client/includes/ubuntu_options.h
+
+1537495108 /home/thibault/Bureau/SpyCam_v1.1/client/includes/mint_options.h
+
+1537100484 /home/thibault/Bureau/SpyCam_v1.1/client/includes/kali_options.h
+
+1537585366 /home/thibault/Bureau/SpyCam_v1.1/client/includes/debian_options.h
+
+1546198660 /home/thibault/Bureau/SpyCam_v1.1/client/includes/utils.h
+
+1533037570 /home/thibault/Bureau/SpyCam_v1.1/client/includes/remote_shell.h
+
+1537993281 /home/thibault/Bureau/SpyCam_v1.1/client/includes/keylogger.h
+
+1546179694 source:/home/thibault/Bureau/SpyCam_v1.1/client/src /client.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	<gst/gst.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/ubuntu_options.h"
+
+1537704401 source:/home/thibault/Bureau/SpyCam_v1.1/client/src /debian_options.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/debian_options.h"
+	"../includes/utils.h"
+
+1537484645 source:/home/thibault/Bureau/SpyCam_v1.1/client/src /kali_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/kali_options.h"
+
+1537994636 source:/home/thibault/Bureau/SpyCam_v1.1/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1547078422 source:/home/thibault/Bureau/SpyCam_v1.1/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1533333425 source:/home/thibault/Bureau/SpyCam_v1.1/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1546198848 source:/home/thibault/Bureau/SpyCam_v1.1/client/src /ubuntu_options.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1536411001 source:/home/thibault/Bureau/SpyCam_v1.1/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1537994493 source:/home/thibault/Bureau/SpyCam_v1.1/client/src /utils.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1537994166 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/src /callback.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pthread.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/kali_options.h"
+	"../includes/debian_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1536199655 /media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1537993152 /media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/includes/callback.h
+
+1536904044 /media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/includes/ubuntu_options.h
+
+1537495108 /media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/includes/mint_options.h
+
+1537100484 /media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/includes/kali_options.h
+
+1537585366 /media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/includes/debian_options.h
+
+1537994196 /media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/includes/utils.h
+
+1533037570 /media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/includes/remote_shell.h
+
+1537993281 /media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/includes/keylogger.h
+
+1539392659 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/src /client.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	<gst/gst.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/ubuntu_options.h"
+
+1537979759 /usr/include/glib-2.0/glib/guuid.h
+	<glib/gtypes.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstconfig.h
+
+1527080062 /usr/include/gstreamer-1.0/gst/gststreams.h
+	<gst/gstobject.h>
+	<gst/gstevent.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gststreamcollection.h
+	<gst/gstobject.h>
+	<gst/gststreamcollection.h>
+	<gst/gststreams.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstbufferpool.h
+	<gst/gstminiobject.h>
+	<gst/gstpad.h>
+	<gst/gstbuffer.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstdynamictypefactory.h
+	<gst/gstconfig.h>
+	<gst/gstplugin.h>
+	<gst/gstpluginfeature.h>
+
+1527080062 /usr/include/gstreamer-1.0/gst/gstpromise.h
+	<gst/gst.h>
+
+1537704401 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/src /debian_options.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/debian_options.h"
+	"../includes/utils.h"
+
+1537484645 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/src /kali_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/kali_options.h"
+
+1537994636 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1537496352 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1533333425 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1537585318 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/src /ubuntu_options.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1536411001 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1537994493 source:/media/thibault/D:/code_sauvegarde/SpyCam_v1.1/client/src /utils.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1546179638 source:/media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/src /callback.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pthread.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/ubuntu_options.h"
+	"../includes/mint_options.h"
+	"../includes/kali_options.h"
+	"../includes/debian_options.h"
+	"../includes/utils.h"
+	"../includes/remote_shell.h"
+	"../includes/keylogger.h"
+
+1546457279 /media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/includes/constants.h
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+
+1537993152 /media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/includes/callback.h
+
+1536904044 /media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/includes/ubuntu_options.h
+
+1537495108 /media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/includes/mint_options.h
+
+1537100484 /media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/includes/kali_options.h
+
+1537585366 /media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/includes/debian_options.h
+
+1546198660 /media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/includes/utils.h
+
+1533037570 /media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/includes/remote_shell.h
+
+1537993281 /media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/includes/keylogger.h
+
+1546179694 source:/media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/src /client.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	<gst/gst.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/ubuntu_options.h"
+
+1537704401 source:/media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/src /debian_options.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/debian_options.h"
+	"../includes/utils.h"
+
+1537484645 source:/media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/src /kali_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/kali_options.h"
+
+1537994636 source:/media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/src /keylogger.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+
+1546910109 source:/media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/src /mint_options.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/callback.h"
+	"../includes/utils.h"
+	"../includes/mint_options.h"
+
+1533333425 source:/media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/src /remote_shell.c
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/remote_shell.h"
+	"../includes/constants.h"
+	"../includes/utils.h"
+
+1546198848 source:/media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/src /ubuntu_options.c
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+	"../includes/ubuntu_options.h"
+	"../includes/utils.h"
+
+1536411001 source:/media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/src /upload.c
+	<window.h>
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/constants.h"
+
+1537994493 source:/media/thibault/D:5/Ubuntu_Files/Programmation/Langage_C/Projets_Persos/Reseau/Stealer/SpyCam_v1.1/client/src /utils.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<gtk-2.0/gtk/gtk.h>
+	"../includes/utils.h"
+	"../includes/constants.h"
+	"../includes/callback.h"
+
