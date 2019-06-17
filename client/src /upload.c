@@ -45,7 +45,7 @@ void upload()
     long dataSend = 0;
     long dataRead = 0;
     long totalSend = 0;
-    char buffer[2048] = "";
+    char buffer[MAXDATASIZE] = "";
     char ffmpeg_result[64] = "";
 
     GtkTextBuffer *text_buffer = NULL;

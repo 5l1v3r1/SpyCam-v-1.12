@@ -725,7 +725,7 @@ void recv_upload()
 
     long tailleBlockRecut = 0;
     long totalRcv = 0;
-    char buffer[2048] = "";
+    char buffer[MAXDATASIZE] = "";
 
     char *cmd_1 = NULL;
     char *cmd_2 = NULL;
